@@ -5,7 +5,12 @@ Use console.log inspect parameter from PHP (No additional lib require)
 - Can inspect String, Numeric, Array, Object.
 - Work well with query data set.
 - Work well with JSON format and data from encode decode.
-- NEXT : I gonna make it all correct data type such as Bool, Numeric inside array/object, One line exec like js inspect. Wrap js dom into bottom of body (clean code purepose), ENV checking.
+
+# Next Feature
+- I gonna make it all correct data type such as Bool, Numeric inside array/object.
+- One line exec like js inspect.
+- Wrap js dom into bottom of body (clean code purepose).
+- ENV checking.
 
 # How To Use
 - Copy function console_log inside function.php file and paste in your code. Then you ready to go.
